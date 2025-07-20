@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="opencomputers"
+version="2.0.0-SNAPSHOT"
+displayName="OpenComputers"
+authors="OpenComputers Team, AI Collaboration (Replit, DeepSeek, ChatGPT, Phind)"
+description='''
+OpenComputers adds computers and various components to Minecraft.
+This is a complete port from Forge 1.12.2 to Forge 1.20.1 featuring:
+- Lua-based programmable computers
+- Component-based architecture
+- Screens and graphics cards
+- Programmable robots
+- EEPROM-based boot system
+'''
+logoFile="logo.png"
+
+[[dependencies.opencomputers]]
+modId="forge"
+mandatory=true
+versionRange="[47.2.20,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.opencomputers]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

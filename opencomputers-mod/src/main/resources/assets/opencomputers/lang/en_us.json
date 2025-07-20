@@ -1,0 +1,41 @@
+{
+  "itemGroup.opencomputers": "OpenComputers",
+  
+  "block.opencomputers.computer_case_t1": "Computer Case (Tier 1)",
+  "block.opencomputers.computer_case_t2": "Computer Case (Tier 2)",
+  "block.opencomputers.computer_case_t3": "Computer Case (Tier 3)",
+  
+  "block.opencomputers.screen_t1": "Screen (Tier 1)",
+  "block.opencomputers.screen_t2": "Screen (Tier 2)",
+  "block.opencomputers.screen_t3": "Screen (Tier 3)",
+  
+  "item.opencomputers.cpu_t1": "CPU (Tier 1)",
+  "item.opencomputers.cpu_t2": "CPU (Tier 2)",
+  "item.opencomputers.cpu_t3": "CPU (Tier 3)",
+  
+  "item.opencomputers.memory_t1": "Memory (Tier 1)",
+  "item.opencomputers.memory_t2": "Memory (Tier 2)",
+  "item.opencomputers.memory_t3": "Memory (Tier 3)",
+  "item.opencomputers.memory_t4": "Memory (Tier 4)",
+  "item.opencomputers.memory_t5": "Memory (Tier 5)",
+  "item.opencomputers.memory_t6": "Memory (Tier 6)",
+  
+  "item.opencomputers.graphics_card_t1": "Graphics Card (Tier 1)",
+  "item.opencomputers.graphics_card_t2": "Graphics Card (Tier 2)",
+  "item.opencomputers.graphics_card_t3": "Graphics Card (Tier 3)",
+  
+  "item.opencomputers.eeprom": "EEPROM",
+  
+  "gui.opencomputers.computer_case": "Computer",
+  
+  "tooltip.opencomputers.energy": "Energy: %s / %s RF",
+  "tooltip.opencomputers.components": "Components: %s / %s",
+  "tooltip.opencomputers.tier": "Tier %s",
+  
+  "message.opencomputers.computer.started": "Computer started",
+  "message.opencomputers.computer.stopped": "Computer stopped",
+  "message.opencomputers.computer.no_energy": "Not enough energy",
+  "message.opencomputers.computer.no_cpu": "No CPU installed",
+  "message.opencomputers.computer.no_memory": "No memory installed",
+  "message.opencomputers.computer.no_eeprom": "No EEPROM installed"
+}
